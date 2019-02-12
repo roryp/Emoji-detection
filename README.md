@@ -15,7 +15,4 @@ Navigate to:
 
 http://localhost:5000
 
-
-Currently deployed at http://104.42.255.66:5000/. If you want to test it out just add any text you want as query text. 
-
-http://104.42.255.66:5000/I%20broke%20my%20leg -> shows: ["😫", "😖", "😢", "😭", "😣"]
+http://localhost:5000/well%20at%20least%20your%20mom%20thinks%20you're%20pretty

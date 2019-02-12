@@ -1,5 +1,5 @@
 # docker build -t 
-FROM ubuntu1604py27
+FROM shengwei/ubuntu1604py27
 
 WORKDIR /home/app
 
